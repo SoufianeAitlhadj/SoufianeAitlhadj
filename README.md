@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/soufiane-ait-lhadj-78b034259/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/@NotFakeSoufiane">
+  <a href="https://x.com/@SoufianeAtlhdj">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
   </a>
   <a href="https://github.com/SoufianeAitlhadj ">
